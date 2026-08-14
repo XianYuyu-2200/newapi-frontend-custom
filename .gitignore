@@ -1,0 +1,25 @@
+# Dependencies and generated frontend output
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime files, archives, and credentials
+*.log
+*.pem
+*.key
+*.crt
+*.p12
+*.oci
+*.tar
+*.tar.gz
+*.zip
